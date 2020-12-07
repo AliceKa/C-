@@ -1,2 +1,2 @@
-# C-
+# C++
 Solution to random problems
